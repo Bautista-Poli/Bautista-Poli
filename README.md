@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">Soy Bautista Poli, desarrollador web frontend y ingeniero informatico </div> <br/>
+### <div align="center">Soy Bautista Alvarez Poli, desarrollador web frontend e estudiante de ingenieria informática </div> <br/>
 
 
 ## Mis Skils
