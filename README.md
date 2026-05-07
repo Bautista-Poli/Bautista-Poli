@@ -68,3 +68,13 @@ He diseñado y desarrollado las siguientes plataformas:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+---
+
+### 📫 Contacto
+<p align="left">
+  <a href="https://www.linkedin.com/in/bautista-alvarez-poli-84b4891b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
