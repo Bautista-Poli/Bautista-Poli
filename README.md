@@ -18,10 +18,10 @@ He diseñado y desarrollado las siguientes plataformas:
 
 <p align="left">
   <a href="https://www.omniafc.com.ar/inicio" target="_blank">
-    <img src="https://img.shields.io/badge/Omnia_FC-Sistema_de_Gestión-black?style=for-the-badge&logo=target&logoColor=white" alt="Omnia FC" />
+    <img src="https://img.shields.io/badge/OMNIA_FC-000000?style=for-the-badge&labelColor=000000&logoColor=FF8C00&color=FF8C00" alt="Omnia FC" />
   </a>
   <a href="https://sophievila.com.ar/" target="_blank">
-    <img src="https://img.shields.io/badge/Sophie_Vila-Art_Gallery-E91E63?style=for-the-badge&logo=instagram&logoColor=white" alt="Sophie Vila" />
+    <img src="https://img.shields.io/badge/SOPHIE_VILA-FFFDD0?style=for-the-badge&labelColor=FFFDD0&logoColor=5D4037&color=5D4037" alt="Sophie Vila" />
   </a>
 </p>
 
@@ -56,8 +56,8 @@ He diseñado y desarrollado las siguientes plataformas:
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BautistaAlvarezPoli&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaAlvarezPoli&layout=compact&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=balvarezpoli&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balvarezpoli&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
