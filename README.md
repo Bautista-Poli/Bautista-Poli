@@ -1,52 +1,60 @@
+# Soy Bautista Álvarez Poli
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BautistaAlvarezPoli&color=blueviolet&style=flat-square" alt="BautistaAlvarezPoli" />
+</p>
 
-### <div align="center">Soy Bautista Alvarez Poli, desarrollador web frontend e estudiante de ingenieria informática </div> <br/>
+### 👨‍💻 Sobre mí
+Soy un apasionado de la **Ingeniería Informática** y **Desarrollador Full Stack**. Actualmente me encuentro cursando mi último año en la UCA, combinando la rigurosidad académica con el desarrollo de soluciones de software escalables y eficientes.
 
+- 🎓 **Estudiante de 5to año** de Ingeniería Informática en la UCA.
+- 🚀 Especializado en **Angular**, **React Native** y **Node.js**.
+- 🛠️ Actualmente trabajando en sistemas de gestión para **Omnia FC** y portafolios digitales.
+- 🤖 Interesado en la integración de **IA** y **Arquitecturas de Microservicios**.
 
-## Mis Skils
+---
 
-<table><tr><td valign="top" width="400px">
+### 🛠️ Tecnologías y Herramientas
 
-### Frontend
+#### **Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+#### **Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
-</div>
+#### **DevOps & Herramientas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-</td>
-<td valign="top" width="400px">
+---
 
-### Backend
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BautistaAlvarezPoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaAlvarezPoli&layout=compact&theme=dracula" />
+</p>
 
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>   
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
-<a href="https://devdocs.io/c/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/es/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Python" height="50" /></a>  
-</div>
+---
 
-</td></tr></table>
-
-<br/>
-
-## Conectarse conmigo
-
-<div align="center" style="size: 20px">
-<a href="www.linkedin.com/in/bautista-alvarez-poli-84b4891b6" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<br/>
-
+### 📫 Contacto
+<p align="left">
+  <a href="https://www.linkedin.com/in/bautista-alvarez-poli-84b4891b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
